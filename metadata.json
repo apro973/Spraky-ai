@@ -1,0 +1,7 @@
+{
+  "name": "Sparky: Your Friendly AI Buddy",
+  "description": "A safe, cheerful, and educational chatbot designed for children aged 6-11 to help with learning, curiosity, and fun stories.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
